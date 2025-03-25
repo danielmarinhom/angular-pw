@@ -1,0 +1,7 @@
+https://github.com/danielmarinhom/angular-pw
+
+
+dupla = [
+'daniel',
+'rafiq'
+]
